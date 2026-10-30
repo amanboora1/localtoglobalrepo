@@ -1,2 +1,16 @@
-this repo was created to learn how to make git repos and save my work on git so i dont loose it
-this is the work flow "C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 083544.png"
+this is the work flow 
+
+git repo  create
+clone                                      "git clone <link>"
+change      
+add                                        "git add . or git add filename"
+commit                                     "git commit -m "comment"
+push for first time                        "git push -u origin main"     after that                                 "git push"
+
+
+other notes
+
+to get on which branch we are working on    "git branch"
+change the name of branch                   "git branch -M newname"
+to change the directory (to get in)         "cd filename"
+to get out of directory                     "cd .."
