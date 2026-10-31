@@ -17,3 +17,6 @@ to get out of directory                     "cd .."
 
 and this is the cheet sheet for it
 https://drive.google.com/file/d/1Ip5CypGGQNgHjedfscV3_oGYr6UfAM0p/view?usp=drive_link
+
+to reset changes 
+"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-10-31 103338.png"
